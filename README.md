@@ -1,6 +1,6 @@
 <img src="./images/GRANULATOR.png" style="height: 70px; width:400px;"/>
 
-Granulator 5000 is a virtual instrument based on granular synthesis specially develop for "retro" video games sound design. Feel free to load your own samples or to use the build-in signals inside the synthesizer (SineFM or Noise) to "granulate" your own Foley sound effects. Also, you can load one of the 7 foley and soundscapes presents (Foot steps, Laser Gun, explosion, spooky, etc).
+Granulator 5000 is a virtual instrument based on granular synthesis specially develop for "retro" video games sound design. Feel free to load your own samples or to use the build-in signals inside the synthesizer (SineFM or Noise) to "granulate" your own Foley sound effects. Also, you can load one of the 7 foley and soundscapes present (Foot steps, Laser Gun, explosion, spooky, etc).
 
 <img src="./images/main.png" style="height:400px; width:350px;"/>
 
